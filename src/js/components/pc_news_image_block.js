@@ -3,6 +3,7 @@ import {Card} from 'antd';
 import {Link} from 'react-router-dom';
 export default class PCNewsImageBlock extends React.Component {
 	constructor() {
+		
 		super();
 		this.state = {
 			news: ''
