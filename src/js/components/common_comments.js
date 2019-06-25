@@ -80,5 +80,5 @@ class CommonComments extends React.Component {
 			</div>
 		);
 	};
-}
+	}
 export default CommonComments = Form.create({})(CommonComments);
